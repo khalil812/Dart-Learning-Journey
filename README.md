@@ -8,14 +8,13 @@ Welcome to my official development repository! I am *Engineer Khalil*, an Inform
 - [x] Master Dart fundamentals and advanced concepts.
 - [ ] Build production-ready cross-platform mobile apps using Flutter.
 - [ ] Apply clean architecture and state management patterns.
-- [ ] Showcase a professional portfolio for international clients and remote jobs.
 
 ---
 
-## 📅 Daily Learning Log (Course by Eng. Wael Abu Hamza)
+## 🛠️ Tech Stack & Tools Used
+- *Language:* Dart 🎯
+- *IDE:* Visual Studio Code (Configured for ultra-clean workspace) 💻
+- *Version Control:* Git & GitHub 🚀
 
-### 🟢 Section 1: Dart Fundamentals
-- [x] *Video 1*: void main() & print() statement 🎯
-- [x] *Video 2*: Variables & Strongly Typed Data Types 📦
-- [ ] *Video 3*: Type Conversion (parse & toString) 🔄
-- [ ] *Video 4*: Code Comments & Clean Code stan
+---
+“Building the future, one line of code at a time.”
