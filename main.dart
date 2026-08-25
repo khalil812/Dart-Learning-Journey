@@ -42,19 +42,36 @@ Vido 2: Variables
 // //x=5;
 // print(xr);// هاد غير قابل للتعديل 
 /***********************************************
-Vido 3:
+Vido 3: Type conversion
  ***********************************************/
-
-
-
-
-
-
-
-
-
-
-
+// String name="23";
+// int e=int.parse(name);// from string to int
+// print(e);
+// print(e.runtimeType);// لمعرفة نوع المتغير 
+// //----------------------------------------
+// String t="33";
+// double u=double.parse(t);// from string to double
+// print(u);
+// //----------------------------------------
+// double k=99.9;
+// int y=k.toInt();// from double to int
+// print(y);
+// //----------------------------------------
+// int x=40;
+// double n=x.toDouble();// from int to double
+// print(n);
+// //----------------------------------------
+// double c=66.8;
+// String b=c.toString();// from double to string
+// print(b);
+// print(b.runtimeType);//للتأكد من ان المتغير اصبح من نوع سترينغ
+// //-----------------------------------------
+// int vv=33;
+// String bb=vv.toString();// from int to string
+// print(bb);
+/***********************************************
+ Vido 4:comment
+************************************************/
 
 
 
